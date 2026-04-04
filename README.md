@@ -1,6 +1,7 @@
 Hello, I am Jubie 👩‍💻
 
 I'm an aspiring IT student (currently learning web development). I’ve been inspired by technology and have enjoyed exploring it from a young age.
+
 ---
 
 ✨ What I'm doing right now:
@@ -22,7 +23,7 @@ I'm an aspiring IT student (currently learning web development). I’ve been ins
 - Create my own tech-based projects in the future
 
 
-✨**Determined to continue this journey of learning with long-term growth in mind.✨**
+✨**Determined to continue this journey of learning with long-term growth in mind✨**
 
 
 
