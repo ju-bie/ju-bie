@@ -1,16 +1,31 @@
-## Hi there 👋
+Hello, I am Jubie 👩‍💻
 
-<!--
-**ju-bie/ju-bie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring IT student (currently learning web development). I’ve been inspired by technology and have enjoyed exploring it from a young age.
+---
 
-Here are some ideas to get you started:
+✨ What I'm doing right now:
+- Learning HTML through freeCodeCamp
+- Building beginner web projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+✨ Projects: 
+- Cat Photo App
+- Recipe Page
+- Travel Agency Page
+- Survey Form
+
+---
+
+✨ Goals:
+- Study IT at university to build strong tech skills 
+- Create my own tech-based projects in the future
+
+
+✨**Determined to continue this journey of learning with long-term growth in mind.✨**
+
+
+
+  
+  
+
