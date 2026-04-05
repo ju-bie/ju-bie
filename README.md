@@ -14,7 +14,9 @@ I'm an aspiring IT student (currently learning web development). I’ve been ins
 - Cat Photo App
 - Recipe Page
 - Travel Agency Page
-- Survey Form
+- Bookstore Page
+- Hotel Survey Form
+- Custom Survey Form
 
 ---
 
