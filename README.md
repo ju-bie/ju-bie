@@ -24,6 +24,8 @@ I'm an aspiring IT student (currently learning web development). I’ve been ins
 - Study IT at university to build strong tech skills 
 - Create my own tech-based projects in the future
 
+  Visit my website to see more: https://ju-bie.github.io/jubie-portfolio/
+
 
 ✨**Determined to continue this journey of learning with long-term growth in mind✨**
 
